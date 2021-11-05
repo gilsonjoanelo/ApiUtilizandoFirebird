@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiUtilizandoFirebird", "ApiUtilizandoFirebird\ApiUtilizandoFirebird.csproj", "{91A958A8-6151-48E2-B67F-963F9ABE457B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A958A8-6151-48E2-B67F-963F9ABE457B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A958A8-6151-48E2-B67F-963F9ABE457B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A958A8-6151-48E2-B67F-963F9ABE457B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A958A8-6151-48E2-B67F-963F9ABE457B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE535E6-753E-40E4-9326-84DB578C1875}
+	EndGlobalSection
+EndGlobal
