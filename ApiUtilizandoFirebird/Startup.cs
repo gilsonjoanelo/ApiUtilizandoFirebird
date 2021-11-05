@@ -1,16 +1,10 @@
+using ApiUtilizandoFirebird.Persistencia.Contexto;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace ApiUtilizandoFirebird
 {
@@ -28,6 +22,7 @@ namespace ApiUtilizandoFirebird
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddTransient<Contexto>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

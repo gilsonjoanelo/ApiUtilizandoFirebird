@@ -24,8 +24,9 @@ D:\bin\bin.git_UNIPAR\ApiUtilizandoFirebird\ApiUtilizandoFirebird\obj\Debug\net5
 D:\bin\bin.git_UNIPAR\ApiUtilizandoFirebird\ApiUtilizandoFirebird\obj\Debug\net5.0\staticwebassets\ApiUtilizandoFirebird.StaticWebAssets.xml
 D:\bin\bin.git_UNIPAR\ApiUtilizandoFirebird\ApiUtilizandoFirebird\obj\Debug\net5.0\scopedcss\bundle\ApiUtilizandoFirebird.styles.css
 D:\bin\bin.git_UNIPAR\ApiUtilizandoFirebird\ApiUtilizandoFirebird\obj\Debug\net5.0\ApiUtilizandoFirebird.RazorTargetAssemblyInfo.cache
-D:\bin\bin.git_UNIPAR\ApiUtilizandoFirebird\ApiUtilizandoFirebird\obj\Debug\net5.0\ApiUtilizandoFirebird.csproj.CopyComplete
 D:\bin\bin.git_UNIPAR\ApiUtilizandoFirebird\ApiUtilizandoFirebird\obj\Debug\net5.0\ApiUtilizandoFirebird.dll
 D:\bin\bin.git_UNIPAR\ApiUtilizandoFirebird\ApiUtilizandoFirebird\obj\Debug\net5.0\ref\ApiUtilizandoFirebird.dll
 D:\bin\bin.git_UNIPAR\ApiUtilizandoFirebird\ApiUtilizandoFirebird\obj\Debug\net5.0\ApiUtilizandoFirebird.pdb
 D:\bin\bin.git_UNIPAR\ApiUtilizandoFirebird\ApiUtilizandoFirebird\obj\Debug\net5.0\ApiUtilizandoFirebird.genruntimeconfig.cache
+D:\bin\bin.git_UNIPAR\ApiUtilizandoFirebird\ApiUtilizandoFirebird\bin\Debug\net5.0\Castle.Core.dll
+D:\bin\bin.git_UNIPAR\ApiUtilizandoFirebird\ApiUtilizandoFirebird\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
